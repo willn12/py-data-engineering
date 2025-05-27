@@ -2,7 +2,7 @@
 
 This project demonstrates data engineering skills through a housing and mortgage data pipeline. It showcases Python programming, data processing, API development, and data visualization capabilities.
 
-I wanted to create this project to help demonstrate a knowledge of python and data engineering
+I wanted to create this project to help demonstrate my knowledge of python and data engineering!
 
 ## Features
 
